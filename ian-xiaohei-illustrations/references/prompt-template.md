@@ -5,11 +5,14 @@
 ```text
 Generate one standalone 16:9 horizontal Chinese article illustration.
 
-Visual DNA:
-Pure white background. Black ink line illustration, loose mature linework — like a New Yorker-style editorial spot illustration. NOT a doodle, NOT a hand-drawn sketch, NOT chibi, NOT cartoon. Organic ink lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
+Style:
+手绘铅笔素描风，简约干净线稿，纯色空白背景，线条粗细一致，写实轻漫画质感。大量留白。少量红色/橙色/蓝色中文手写批注。禁止PPT、信息图、商业插画、复杂背景、阴影、渐变、纸纹。
 
-Recurring IP character required:
-MarxChou, an ink-drawn indie developer — young adult male (~25 years old, NOT a child, NOT middle-aged), normal adult head-to-body proportions (NOT chibi, NOT oversized head), messy black hair, round glasses (two circles + bridge), teal hoodie with a handwritten "M" mark on the chest. Calm, serious, thoughtful expression. MarxChou must perform the core conceptual action, not decorate the scene. Draw MarxChou like a real person in an editorial illustration, not a cartoon mascot, not a baby, not an old man.
+MarxChou character (must appear, must perform core action):
+同一个清瘦少年男生，蓬松凌乱短发，黑细圆框眼镜，身穿固定青绿色连帽卫衣，卫衣胸口有黑色大写M字母，身形比例统一，五官柔和沉稳，表情安静专注。仅卫衣填充统一青绿色，其余人物全黑白线条。人物五官脸型完全复刻基准形象，不改变长相发型服饰。
+
+Negative prompt:
+Q版，大头娃娃，厚涂油画，水彩浓彩，染发，换外套，无眼镜，脸型变形，五官偏移，夸张表情，肥胖身材，多人，杂乱背景，阴影过重，色彩杂乱，chibi，cartoon，cute，child
 
 Theme:
 {正文配图主题}
@@ -29,11 +32,11 @@ Suggested elements:
 Chinese handwritten labels:
 {标注词1} / {标注词2} / {标注词3} / {标注词4} / {可选标注词5}
 
-Color use:
-Black for main line art and MarxChou. Orange for main flow/path/arrows. Red only for key warnings/problems/results. Blue only for secondary notes or feedback/system state.
+Color rules:
+MarxChou 仅卫衣填青绿色，其余全黑白线条。标注用红色（重点/问题/提醒）、橙色（主流程/箭头/路径）、蓝色（补充说明/系统状态）。
 
 Constraints:
-One image explains only one core structure. Keep the main subject around 40%-60% of the canvas. Preserve at least 35% blank white space. Use at most 5-8 short handwritten Chinese labels. Do not write a title in the top-left corner. Do not write the structure type on the image. Do not make it a formal diagram, course slide, or dense explainer. Do not copy prior examples or reuse known case compositions unless explicitly requested; invent a fresh visual metaphor for this specific article. It should be clear but not instructional, interesting but not childish, strange but clean.
+一张图只讲一个核心结构。主体占画面 40%-60%。至少 35% 留白。最多 5-8 个短中文标注。左上角不写标题。不要写结构类型名称。不要做成正式流程图/课件/说明书。不要复刻旧案例构图——每次从当前文章重新发明隐喻。画面要清爽、有意思、简洁，不幼稚不死板。
 ```
 
 ## 图像编辑提示
@@ -47,5 +50,5 @@ Edit the provided image. Remove only the handwritten title "{要删除的文字}
 增强画面感：
 
 ```text
-Regenerate this illustration with the same core meaning and simple layout, but make MarxChou more central to the conceptual action. MarxChou should be doing the work that explains the idea, not standing beside the diagram. Keep it clean, sparse, ink line editorial illustration style with adult proportions, and not cute.
+Regenerate this illustration with the same core meaning and simple layout, but make MarxChou more central to the conceptual action. MarxChou should be doing the work that explains the idea, not standing beside the diagram. Keep the pencil sketch style, clean line art, teal hoodie only colored, pure white background, sparse annotations.
 ```
