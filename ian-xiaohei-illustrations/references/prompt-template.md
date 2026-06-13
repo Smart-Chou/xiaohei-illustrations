@@ -6,10 +6,10 @@
 Generate one standalone 16:9 horizontal Chinese article illustration.
 
 Visual DNA:
-Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean product-sketch feeling — like a developer's whiteboard doodle. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
+Pure white background. Black ink line illustration, loose mature linework — like a New Yorker-style editorial spot illustration. NOT a doodle, NOT a hand-drawn sketch, NOT chibi, NOT cartoon. Organic ink lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-MarxChou, a simplified hand-drawn indie developer — young adult male (~25 years old, NOT a child, NOT middle-aged), normal adult head-to-body proportions (NOT chibi, NOT oversized head), messy black hair outline, round glasses (two circles + bridge), teal hoodie drawn in black wobbly lines with a handwritten "M" mark on the chest. Calm, serious, thoughtful expression. MarxChou must perform the core conceptual action, not decorate the scene. Make MarxChou look like a rough whiteboard sketch of a real person, not a baby, not a cute mascot, not an old man.
+MarxChou, an ink-drawn indie developer — young adult male (~25 years old, NOT a child, NOT middle-aged), normal adult head-to-body proportions (NOT chibi, NOT oversized head), messy black hair, round glasses (two circles + bridge), teal hoodie with a handwritten "M" mark on the chest. Calm, serious, thoughtful expression. MarxChou must perform the core conceptual action, not decorate the scene. Draw MarxChou like a real person in an editorial illustration, not a cartoon mascot, not a baby, not an old man.
 
 Theme:
 {正文配图主题}
@@ -47,5 +47,5 @@ Edit the provided image. Remove only the handwritten title "{要删除的文字}
 增强画面感：
 
 ```text
-Regenerate this illustration with the same core meaning and simple layout, but make MarxChou more central to the conceptual action. MarxChou should be doing the work that explains the idea, not standing beside the diagram. Keep it clean, sparse, hand-drawn whiteboard-sketch style, and not cute.
+Regenerate this illustration with the same core meaning and simple layout, but make MarxChou more central to the conceptual action. MarxChou should be doing the work that explains the idea, not standing beside the diagram. Keep it clean, sparse, ink line editorial illustration style with adult proportions, and not cute.
 ```
