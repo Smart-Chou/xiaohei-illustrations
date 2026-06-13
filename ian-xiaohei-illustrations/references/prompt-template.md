@@ -9,7 +9,7 @@ Visual DNA:
 Pure white background. Minimalist black hand-drawn line art. Slightly wobbly pen lines. Lots of empty white space. Sparse red/orange/blue handwritten Chinese annotations. Clean product-sketch feeling — like a developer's whiteboard doodle. No gradients, no shadows, no paper texture, no complex background, no commercial vector style, no PPT infographic look, no cute mascot poster, no children's illustration, no realistic UI.
 
 Recurring IP character required:
-MarxChou, a simplified hand-drawn indie developer — messy black hair outline, round glasses (two circles + bridge), teal hoodie drawn in black wobbly lines with a handwritten "M" mark on the chest. Calm, serious, thoughtful expression. MarxChou must perform the core conceptual action, not decorate the scene. Make MarxChou look like a rough whiteboard sketch, not a polished mascot.
+MarxChou, a simplified hand-drawn indie developer — young adult male (~25 years old, NOT a child, NOT middle-aged), normal adult head-to-body proportions (NOT chibi, NOT oversized head), messy black hair outline, round glasses (two circles + bridge), teal hoodie drawn in black wobbly lines with a handwritten "M" mark on the chest. Calm, serious, thoughtful expression. MarxChou must perform the core conceptual action, not decorate the scene. Make MarxChou look like a rough whiteboard sketch of a real person, not a baby, not a cute mascot, not an old man.
 
 Theme:
 {正文配图主题}
